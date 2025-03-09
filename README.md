@@ -1,2 +1,1 @@
-# virtualized-lists
-Created with CodeSandbox
+virtualized lists with optimisations
