@@ -1,0 +1,18 @@
+export const suggestions = [
+  "apple",
+  "banana",
+  "cherry",
+  "date",
+  "elderberry",
+  "fig",
+  "grape",
+  "kiwi",
+  "lemon",
+  "mango",
+  "nectarine",
+  "orange",
+  "pear",
+  "pineapple",
+  "plum",
+  "strawberry",
+];

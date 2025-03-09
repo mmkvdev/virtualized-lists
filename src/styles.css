@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.normal-list {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 500px;
+  align-items: center;
+  height: 500px;
+  /* overflow-y: scroll; */
+  margin: 100px;
+}
+
+.virtualized-list {
+  border: 1px solid black;
+  width: 500px;
+  height: 500px;
+  margin: 100px;
+}
